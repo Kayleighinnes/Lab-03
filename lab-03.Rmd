@@ -62,7 +62,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 
 _Write your comments about image 4 below_
 
-
+_Image is not respectful of the people reading the graph as it is difficult to understand, the y-axis label is very small and long, and not very informative of how to interpret the data. _
 
 
 
