@@ -87,7 +87,7 @@ _Staff is wide_
 
 How many observations are there in the data set?
 
-_11 observations_
+_55 observations_
 
 
 
