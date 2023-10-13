@@ -33,7 +33,7 @@ _Bar chart doesn't accurately represent data, Chinese and English appear to be t
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+_Not very informative data as the data isn't clear and not labelled properly. Doesn't respect the people as it's very confusing to read. _
 
 
 
