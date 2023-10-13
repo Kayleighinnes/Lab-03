@@ -44,7 +44,12 @@ _Not very informative data as the data isn't clear and not labelled properly. Do
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+Lack of information what do the colours and sizes of the dots mean.
+Rule of law is subjective non quantative data, therefore is inaccurate to use a scattergraph. 
+No axis scale.
+Not informative.
+Does not respect the people, data or mathematics.
+Potentially doesnt respect the computer as there is a lot of information and random colours that arent necessary.
 
 
 
